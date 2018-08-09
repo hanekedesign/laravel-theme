@@ -9,6 +9,10 @@
         {
             "name": "Teepluss",
             "email": "admin@laravel.in.th"
+        },
+        {
+          "name": "Jesse Curry",
+          "email": "jesse@jessecurry.net"
         }
     ],
     "require": {
